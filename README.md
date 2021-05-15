@@ -1,2 +1,2 @@
 # Django-p1
-badic webdevelopment project
+basic website project where authors can post their writings
